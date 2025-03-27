@@ -3,8 +3,10 @@
 <h4>💡 Passionate about building scalable web applications, interactive dashboards, and data-driven solutions. Skilled in Python, JavaScript, React, Flask, Django, Dash, and Machine Learning.</h4>
 <h5>
 🔹 Creating innovative web solutions and data visualization dashboards using Dash & Plotly.
+
   
 🔹 Experienced in Frontend & Backend Development (React, Node.js, Flask, Django).
+
 
 🔹 Strong understanding of Data Science, Machine Learning, and AI.
 
