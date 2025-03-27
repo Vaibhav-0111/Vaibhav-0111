@@ -3,10 +3,13 @@
 <h4>💡 Passionate about building scalable web applications, interactive dashboards, and data-driven solutions. Skilled in Python, JavaScript, React, Flask, Django, Dash, and Machine Learning.</h4>
 <h5>
 🔹 Creating innovative web solutions and data visualization dashboards using Dash & Plotly.
+  
 🔹 Experienced in Frontend & Backend Development (React, Node.js, Flask, Django).
+
 🔹 Strong understanding of Data Science, Machine Learning, and AI.
 
-💻 Open to collaborations on web development, dashboards, and AI-powered applications!</h5>
+💻 Open to collaborations on web development, dashboards, and AI-powered applications!
+</h5>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-0111&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-0111" /> </p>
