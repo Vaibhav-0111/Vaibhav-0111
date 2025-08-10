@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-0111&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-0111" /> </p>
 
 - 📫 How to reach me **vaibhavtripathi724@gmail.com**
-- 💻 How to reach me **https://portfilo-vaibhav.vercel.app/**
+- 💻 How to reach me **https://protfilo-jjge.vercel.app/**
 
 
 <h3 align="left">Connect with me:</h3>
