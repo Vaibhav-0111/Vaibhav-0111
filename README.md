@@ -4,12 +4,12 @@
 <!--                    EPIC ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,60:0d1b4b,100:0a0a2e&height=280&section=header&text=Vaibhav%20Tripathi&fontSize=72&fontColor=00f5ff&fontAlignY=45&desc=🚀%20Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descSize=17&descAlignY=65&descColor=a0cfff&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,60:0d1b4b,100:0a0a2e&height=280&section=header&text=Vaibhav%20Tripathi&fontSize=72&fontColor=00f5ff&fontAlignY=45&desc=🚀%20Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20vaibhav-website.vercel.app&descSize=15&descAlignY=65&descColor=a0cfff&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
 <br/>
 
 <!-- Neon Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🧠+AI+%26+ML+Engineer+%7C+LangChain+%2B+LangGraph;⚡+Full-Stack+Developer+%7C+React+%2B+Node+%2B+Django;📊+Data+Scientist+%7C+Pandas+%2B+Sklearn+%2B+Power+BI;🐳+DevOps+%7C+Docker+%2B+FastAPI+%2B+Supabase;🏆+Global+Rank+1+%7C+VirtuHack+International+2025;🔬+Patent+Analyst+%7C+Agro-AI+%7C+Multi-Agent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=800&height=55&lines=🧠+AI+%26+ML+Engineer+%7C+LangChain+%2B+LangGraph;☕+Java+Backend+%7C+Spring+Boot+%2B+Spring+AI;⚛️+MERN+Frontend+%7C+React+%2B+Next.js+%2B+Three.js;📊+Data+Scientist+%7C+Pandas+%2B+Sklearn+%2B+Power+BI;🏆+Global+Rank+1+%7C+VirtuHack+International+2025;🔬+Patent+Analyst+%7C+Agro-AI+%7C+Multi-Agent+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=050510&color=050510"/>
 </a>
 <a href="https://vaibhav-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=050510&color=050510"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=050510&color=050510"/>
 </a>
 <a href="mailto:vaibhavtripathi724@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Reach%20Me-ff4757?style=for-the-badge&logo=gmail&logoColor=ff6b81&labelColor=050510&color=050510"/>
@@ -50,45 +50,50 @@
 
 ## `> whoami`
 
-```python
-#!/usr/bin/env python3
-# ⚡ vaibhav_tripathi.py
+```java
+// ⚡ VaibhavTripathi.java
 
-class VaibhavTripathi:
+public class VaibhavTripathi {
 
-    name       = "Vaibhav Tripathi"
-    title      = "Full-Stack Dev | ML Engineer | AI Builder"
-    university = "Lovely Professional University | CGPA: 8.0"
-    location   = "Punjab, India 🇮🇳"
-    mobile     = "+91-9198446066"
+    String name       = "Vaibhav Tripathi";
+    String title      = "Full-Stack Dev | ML Engineer | Data Scientist";
+    String university = "Lovely Professional University | CGPA: 8.0";
+    String location   = "Punjab, India 🇮🇳";
+    String portfolio  = "https://vaibhav-website.vercel.app/";
+    String email      = "vaibhavtripathi724@gmail.com";
 
-    # 🧠 Core Expertise
-    ml_stack   = ["Scikit-learn","LangChain","LangGraph","GPT-4o","RAG"]
-    backend    = ["FastAPI","Django","Flask","Node.js","Express","Supabase"]
-    frontend   = ["React","Next.js","Three.js","HTML5","CSS3","Streamlit"]
-    databases  = ["PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"]
-    devops     = ["Docker","Git","GitHub","Jupyter","Power BI","Excel"]
-    languages  = ["Python","C++","JavaScript","Java","SQL","TypeScript"]
+    // ☕ Java Backend (Primary)
+    String[] javaBackend = {"Spring Boot","Spring AI","Spring Security",
+                            "Spring Data JPA","REST APIs","Microservices"};
 
-    # 🏆 Biggest Wins
-    achievements = [
+    // ⚛️ MERN Frontend
+    String[] frontend    = {"React","Next.js","Three.js","TypeScript",
+                            "JavaScript","HTML5","CSS3"};
+
+    // 🧠 AI / ML Stack
+    String[] mlStack     = {"LangChain","LangGraph","GPT-4o","RAG",
+                            "Scikit-learn","Pandas","NumPy","Streamlit"};
+
+    // 🗄️ Databases
+    String[] databases   = {"PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"};
+
+    // 🛠️ DevOps & Tools
+    String[] devops      = {"Docker","Git","FastAPI","Django","Flask",
+                            "Power BI","Jupyter","Linux"};
+
+    // 🏆 Biggest Wins
+    String[] achievements = {
         "🥇 Global Rank 1 — VirtuHack International (21k+ participants)",
         "🥇 Rank 1    — Tech Synergy, Cipher Schools (5k+ participants)",
         "🏅 Rank 5    — Code-a-haunt, LPU (15k+ participants)",
         "🚀 SIH 2025 Finalist (10k+ participants)",
-        "⚡ Unstoppable Hackathon Finalist (1L+ participants)",
-    ]
+        "⚡ Unstoppable Hackathon Finalist (1L+ participants)"
+    };
 
-    def current_focus(self):
-        return [
-            "🤖 Multi-Agent AI Systems (LangGraph)",
-            "🌾 Agro-AI & Precision Farming",
-            "🏭 Enterprise Intelligence Automation",
-            "🔬 Patent Analytics & IP Strategy",
-        ]
-
-me = VaibhavTripathi()
-print(f"Let's build the future together 🚀")
+    public static void main(String[] args) {
+        System.out.println("Let's build the future together 🚀");
+    }
+}
 ```
 
 <br clear="right"/>
@@ -123,6 +128,25 @@ print(f"Let's build the future together 🚀")
 
 <div align="center">
 
+### ☕ Java Backend (Primary Stack)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=consul&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### ⚛️ Frontend (MERN)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 🧠 AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff88)
@@ -139,20 +163,8 @@ print(f"Let's build the future together 🚀")
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable%20AI-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
-
-### 🔧 Backend & APIs
+### 🔧 Other Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
@@ -167,45 +179,12 @@ print(f"Let's build the future together 🚀")
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE TIMELINE                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-### 🚀 Freelancing | AI-Based Web Development Startup
-**`Developer` · Jul 2025 – Present**
-
-> Directly working with an AI-based startup — delivered **4–5 end-to-end production websites** using AI-assisted methodologies.
-
-- 🤖 Built responsive front-end interfaces with **Lovable** (AI-based frontend dev)
-- ⚙️ Backend logic & automation via **Cursor AI** (SDLC-compliant development)
-- 🗃️ Used **Supabase** for real-time database, authentication & secure API integration
-- 🔁 Dynamic relational data synchronization & deployment across multiple startups
-- **Stack:** `Lovable` `Supabase` `Cursor AI` `Real-Time APIs` `AI-Driven Architecture`
-
----
-
-### 🔬 Lovely Professional University | Patent Analyst Trainee
-**`Trainee` · Mar 2025 – Dec 2025**
-
-> Conducted **comprehensive prior art searches** and patentability assessments for novel inventions.
-
-- 📚 Patent databases & scientific literature for novelty & inventive step assessment
-- 📝 Drafted full patent docs: specs, claims, abstracts & technical descriptions
-- 📊 Analyzed technology trends, competitor patents & innovation landscapes
-- **Stack:** `MS Word` `IPR Rules` `Patent Laws`
 
 ---
 
@@ -260,7 +239,7 @@ print(f"Let's build the future together 🚀")
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16" width="70%"/>
 
 </div>
 
@@ -278,12 +257,14 @@ print(f"Let's build the future together 🚀")
 
 ## 🐍 Contribution Snake
 
+> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate the snake animation.
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
