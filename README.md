@@ -255,29 +255,6 @@ public class VaibhavTripathi {
 
 ---
 
-## 🐍 Contribution Snake
-
-> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate the snake animation.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
