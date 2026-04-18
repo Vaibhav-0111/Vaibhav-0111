@@ -62,14 +62,24 @@ public class VaibhavTripathi {
     String portfolio  = "https://vaibhav-website.vercel.app/";
     String email      = "vaibhavtripathi724@gmail.com";
 
-    
-# 🧠 Core Expertise
-    ml_stack   = ["Scikit-learn","LangChain","LangGraph","GPT-4o","RAG"]
-    backend    = ["FastAPI","Spring Boot","REST API","MAVEN","Supabase"]
-    frontend   = ["React","Next.js","Three.js","HTML5","CSS3","Streamlit"]
-    databases  = ["PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"]
-    devops     = ["Docker","Git","GitHub","Jupyter","Power BI","Excel"]
-    languages  = ["Python","C++","JavaScript","Java","SQL","TypeScript"]
+    // ☕ Java Backend
+    String[] javaBackend = {"Spring Boot","Spring AI","Spring Security",
+                            "Spring Data JPA","REST APIs","Microservices"};
+
+    // ⚛️ MERN Frontend
+    String[] frontend    = {"React","Next.js","Three.js","TypeScript",
+                            "JavaScript","HTML5","CSS3"};
+
+    // 🧠 AI / ML Stack(primary)
+    String[] mlStack     = {"LangChain","LangGraph","GPT-4o","RAG",
+                            "Scikit-learn","Pandas","NumPy","Streamlit"};
+
+    // 🗄️ Databases
+    String[] databases   = {"PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"};
+
+    // 🛠️ DevOps & Tools
+    String[] devops      = {"Docker","Git","FastAPI","Django","Flask",
+                            "Power BI","Jupyter","Linux"};
 
     // 🏆 Biggest Wins
     String[] achievements = {
@@ -80,15 +90,6 @@ public class VaibhavTripathi {
         "⚡ Unstoppable Hackathon Finalist (1L+ participants)"
     };
 
-
-    def current_focus(self):
-        return [
-            "🤖 Multi-Agent AI Systems (LangGraph)",
-            "🌾 Agro-AI & Precision Farming",
-            "🏭 Enterprise Intelligence Automation",
-            "🔬 Patent Analytics & IP Strategy",
-        ]
-
     public static void main(String[] args) {
         System.out.println("Let's build the future together 🚀");
     }
@@ -96,6 +97,61 @@ public class VaibhavTripathi {
 ```
 
 <br clear="right"/>
+
+---
+
+## 🚀 Currently Working On & Learning
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🤖-BUILDING-00f5ff?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Multi-Agent AI System</b><br/>
+      <sub>LangGraph + GPT-4o + RAG pipeline<br/>for enterprise automation</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/☕-DEEPENING-6DB33F?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Spring Boot Microservices</b><br/>
+      <sub>Production REST APIs with<br/>Spring AI & Spring Security</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🌾-RESEARCHING-ff6b6b?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Agro-AI Pipeline</b><br/>
+      <sub>CNN + LSTM on multispectral<br/>satellite imagery for crop monitoring</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/📊-EXPLORING-F2C811?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Advanced Data Science</b><br/>
+      <sub>Time-series forecasting,<br/>anomaly detection & Power BI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/⚛️-PRACTISING-61DAFB?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>React + Next.js 15</b><br/>
+      <sub>Server components, app router,<br/>Three.js 3D interfaces</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🐳-LEARNING-2496ED?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Docker & DevOps</b><br/>
+      <sub>Containerised deployments,<br/>Docker Compose & CI/CD</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🧠-MASTERING-412991?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>LangChain & LangGraph</b><br/>
+      <sub>Agentic workflows, tool-calling,<br/>memory & Qdrant vector search</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🔬-CONTRIBUTING-FF5722?style=for-the-badge&labelColor=050510"/><br/><br/>
+      <b>Patent Analytics</b><br/>
+      <sub>Prior art search, IP strategy<br/>& patentability assessments</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -254,6 +310,29 @@ public class VaibhavTripathi {
 
 ---
 
+## 🐍 Contribution Snake
+
+> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate the snake animation.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
