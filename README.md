@@ -1,169 +1,321 @@
-<!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaibhav%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    EPIC ANIMATED HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaibhav+Tripathi;Full-Stack+Developer+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%A7%A0;Open+to+Collaborations+%F0%9F%92%BB)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,60:0d1b4b,100:0a0a2e&height=280&section=header&text=Vaibhav%20Tripathi&fontSize=72&fontColor=00f5ff&fontAlignY=45&desc=🚀%20Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descSize=17&descAlignY=65&descColor=a0cfff&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<!-- Profile views & followers badges -->
-<img src="https://komarev.com/ghpvc/?username=vaibhav-0111&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- Neon Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🧠+AI+%26+ML+Engineer+%7C+LangChain+%2B+LangGraph;⚡+Full-Stack+Developer+%7C+React+%2B+Node+%2B+Django;📊+Data+Scientist+%7C+Pandas+%2B+Sklearn+%2B+Power+BI;🐳+DevOps+%7C+Docker+%2B+FastAPI+%2B+Supabase;🏆+Global+Rank+1+%7C+VirtuHack+International+2025;🔬+Patent+Analyst+%7C+Agro-AI+%7C+Multi-Agent+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Neon glow badges -->
+<a href="https://www.linkedin.com/in/vaibhavtripathi75/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=050510&color=050510"/>
+</a>
+<a href="https://vaibhav-website.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=050510&color=050510"/>
+</a>
+<a href="mailto:vaibhavtripathi724@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Reach%20Me-ff4757?style=for-the-badge&logo=gmail&logoColor=ff6b81&labelColor=050510&color=050510"/>
+</a>
+<a href="https://github.com/Vaibhav-0111">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510&color=050510"/>
+</a>
+<a href="https://www.hackerrank.com/profile/vaibhavtripath36">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=050510&color=050510"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav-0111&label=👁️+Profile+Views&color=00f5ff&style=for-the-badge&labelColor=050510" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/vaibhav-0111?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/followers/vaibhav-0111?label=⭐+Followers&style=for-the-badge&color=7c3aed&labelColor=050510" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME MATRIX                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💡 About Me
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+## `> whoami`
 
 ```python
-class VaibhavTripathi:
-    def __init__(self):
-        self.name       = "Vaibhav Tripathi"
-        self.role       = "Full-Stack Developer"
-        self.location   = "India 🇮🇳"
-        self.languages  = ["Python", "JavaScript", "Java", "C"]
-        self.frameworks = ["React", "Next.js", "Flask", "Django", "Node.js"]
-        self.databases  = ["MongoDB", "MySQL", "Oracle"]
-        self.interests  = ["Web Apps", "Dashboards", "ML", "AI"]
-        self.email      = "vaibhavtripathi724@gmail.com"
-        self.website    = "https://vaibhav-website.vercel.app/"
+#!/usr/bin/env python3
+# ⚡ vaibhav_tripathi.py
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
+class VaibhavTripathi:
+
+    name       = "Vaibhav Tripathi"
+    title      = "Full-Stack Dev | ML Engineer | AI Builder"
+    university = "Lovely Professional University | CGPA: 8.0"
+    location   = "Punjab, India 🇮🇳"
+    mobile     = "+91-9198446066"
+
+    # 🧠 Core Expertise
+    ml_stack   = ["Scikit-learn","LangChain","LangGraph","GPT-4o","RAG"]
+    backend    = ["FastAPI","Django","Flask","Node.js","Express","Supabase"]
+    frontend   = ["React","Next.js","Three.js","HTML5","CSS3","Streamlit"]
+    databases  = ["PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"]
+    devops     = ["Docker","Git","GitHub","Jupyter","Power BI","Excel"]
+    languages  = ["Python","C++","JavaScript","Java","SQL","TypeScript"]
+
+    # 🏆 Biggest Wins
+    achievements = [
+        "🥇 Global Rank 1 — VirtuHack International (21k+ participants)",
+        "🥇 Rank 1    — Tech Synergy, Cipher Schools (5k+ participants)",
+        "🏅 Rank 5    — Code-a-haunt, LPU (15k+ participants)",
+        "🚀 SIH 2025 Finalist (10k+ participants)",
+        "⚡ Unstoppable Hackathon Finalist (1L+ participants)",
+    ]
+
+    def current_focus(self):
+        return [
+            "🤖 Multi-Agent AI Systems (LangGraph)",
+            "🌾 Agro-AI & Precision Farming",
+            "🏭 Enterprise Intelligence Automation",
+            "🔬 Patent Analytics & IP Strategy",
+        ]
 
 me = VaibhavTripathi()
-me.say_hi()
+print(f"Let's build the future together 🚀")
 ```
-
-🔹 Building scalable **web apps** & **interactive dashboards** using Dash & Plotly  
-🔹 Experienced in **Frontend & Backend** (React, Node.js, Flask, Django)  
-🔹 Strong grasp of **Data Science, Machine Learning & AI**  
-💻 Open to **collaborations** on web dev, dashboards & AI-powered apps!
 
 <br clear="right"/>
 
 ---
 
-<!-- Connect Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    HACKATHON ACHIEVEMENTS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Hackathons
+
 <div align="center">
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Tripathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavtripathi75/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhav--website-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhav-website.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-vaibhavtripathi724-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavtripathi724@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-vaibhavtripath36-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vaibhavtripath36)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-vaibhavtripath36-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@vaibhavtripath36)
+| 🥇 Rank | 🏆 Competition | 👥 Scale |
+|:---:|:---|:---:|
+| **🥇 Global Rank 1** | VirtuHack International Hackathon | 21,000+ participants |
+| **🥇 Rank 1** | Tech Synergy — Cipher Schools | 5,000+ participants |
+| **🏅 Rank 5** | Code-a-haunt — Lovely Professional University | 15,000+ participants |
+| **🚀 Finalist** | Smart India Hackathon (SIH 2025) | 10,000+ internal participants |
+| **⚡ Finalist** | The Unstoppable Hackathon — UnStop | 1,00,000+ virtual participants |
 
 </div>
 
 ---
 
-<!-- Tech Stack Section -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK GRID                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Tech Arsenal
+
 <div align="center">
 
-### 🛠️ Languages & Tools
+### 🧠 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff88)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=00f5ff)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-#### ⚛️ Frontend & JS Frameworks
+### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable%20AI-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
 
-#### 🔧 Backend Frameworks
+### 🔧 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-#### 🗄️ Databases
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### 🧰 Tools & Platforms
+### 🛠️ DevOps, Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
 ---
 
-<!-- Animated Snake Graph -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     EXPERIENCE TIMELINE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💼 Experience
+
+### 🚀 Freelancing | AI-Based Web Development Startup
+**`Developer` · Jul 2025 – Present**
+
+> Directly working with an AI-based startup — delivered **4–5 end-to-end production websites** using AI-assisted methodologies.
+
+- 🤖 Built responsive front-end interfaces with **Lovable** (AI-based frontend dev)
+- ⚙️ Backend logic & automation via **Cursor AI** (SDLC-compliant development)
+- 🗃️ Used **Supabase** for real-time database, authentication & secure API integration
+- 🔁 Dynamic relational data synchronization & deployment across multiple startups
+- **Stack:** `Lovable` `Supabase` `Cursor AI` `Real-Time APIs` `AI-Driven Architecture`
+
+---
+
+### 🔬 Lovely Professional University | Patent Analyst Trainee
+**`Trainee` · Mar 2025 – Dec 2025**
+
+> Conducted **comprehensive prior art searches** and patentability assessments for novel inventions.
+
+- 📚 Patent databases & scientific literature for novelty & inventive step assessment
+- 📝 Drafted full patent docs: specs, claims, abstracts & technical descriptions
+- 📊 Analyzed technology trends, competitor patents & innovation landscapes
+- **Stack:** `MS Word` `IPR Rules` `Patent Laws` `IP Strategy`
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        KEY PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛸 Featured Projects
+
 <div align="center">
 
-### 🐍 My Contribution Snake
+| 🚀 Project | 💡 Description | 🛠️ Stack |
+|:---|:---|:---|
+| **[🌾 Agro–AI](https://github.com/Vaibhav-0111)** | AI-driven remote-sensing pipeline — crop health, soil & pest-risk using multispectral imagery. CNN + LSTM on Sentinel/Landsat. 3D dashboard + real-time alerts. | `Python` `CNN` `LSTM` `ML` `JS` |
+| **[🦠 COVID-19 Variant Analyzer](https://github.com/Vaibhav-0111)** | Data-driven system for global variant patterns & transmission behavior. Logistic Regression, Random Forest & SVM for severity prediction. | `Python` `Pandas` `Sklearn` `Seaborn` |
+| **[🖥️ OS Process Visualizer](https://github.com/Vaibhav-0111)** | Visual simulation of CPU scheduling — FCFS, SJF, Round Robin & Priority. Dynamic Gantt charts + CPU utilization visualized with Matplotlib. | `Python` `Tkinter` `Matplotlib` |
+| **[🤖 Autonomous Enterprise Intelligence](https://github.com/Vaibhav-0111)** | 7-agent multi-agent AI system with RAG pipeline, 24k+ doc embeddings, NL-to-SQL, auto chart generation. **94% output confidence.** Deployed on Docker. | `LangGraph` `GPT-4o` `Qdrant` `FastAPI` `Docker` `PostgreSQL` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TRAINING                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Training
+
+### 🐍 CSE Pathshala — Advanced Python for ML & AI
+**Jun 2025 – Jul 2025**
+- Focused on logic building, advanced ML concepts & hands-on Python practice
+- Built multiple ML models from scratch; strengthened foundational AI skills
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CERTIFICATIONS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎓 Certifications
+
+<div align="center">
+
+![Cloud Computing](https://img.shields.io/badge/☁️%20Cloud%20Computing-IIT%20Madras%20%7C%20Aug%2025-FF6B35?style=for-the-badge&labelColor=050510)
+![Google IT Automation](https://img.shields.io/badge/🤖%20IT%20Automation%20with%20Python-Google%20%7C%20Aug%2025-4285F4?style=for-the-badge&labelColor=050510)
+![Computational Theory](https://img.shields.io/badge/🧮%20Computational%20Theory-Infosys%20%7C%20Jul%2025-FF5722?style=for-the-badge&labelColor=050510)
+![Google Data Analytics](https://img.shields.io/badge/📊%20Data%20Analytics-Google%20%7C%20Dec%2024-34A853?style=for-the-badge&labelColor=050510)
+![Google IT Support](https://img.shields.io/badge/🛠️%20IT%20Support-Google%20%7C%20Jun%2024-FBBC04?style=for-the-badge&labelColor=050510)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&icon_color=7c3aed&text_color=a0cfff&border_radius=16&include_all_commits=true&count_private=true" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-0111&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&text_color=a0cfff&border_radius=16&langs_count=8" height="185"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0111&bg_color=050510&color=00f5ff&line=7c3aed&point=00f5ff&area_color=7c3aed&area=true&hide_border=true&radius=16&custom_title=Vaibhav%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav-0111/vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
+## 🏅 GitHub Trophies
+
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=12" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-0111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_radius=12" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&border_radius=12" alt="GitHub Streak" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
+## 💬 Dev Quote of the Day
+
 <div align="center">
-
-### 📈 Contribution Activity
-
-[![Vaibhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0111&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-0111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- Fun Stats / Random Dev Quote -->
-<div align="center">
-
-### 💬 Dev Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -171,9 +323,12 @@ me.say_hi()
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
 <div align="center">
-  <i>⭐ Star my repos if you find them helpful! Let's connect and build something great together 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d1b4b,100:050510&height=130&section=footer&text=Let's%20Build%20the%20Future%20Together%20🚀&fontSize=22&fontColor=00f5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+**⭐ Star my repos if helpful! · 🤝 Open to collabs, freelance & full-time opportunities**
+
 </div>
