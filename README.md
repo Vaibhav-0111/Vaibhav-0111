@@ -62,24 +62,14 @@ public class VaibhavTripathi {
     String portfolio  = "https://vaibhav-website.vercel.app/";
     String email      = "vaibhavtripathi724@gmail.com";
 
-    // ☕ Java Backend (Primary)
-    String[] javaBackend = {"Spring Boot","Spring AI","Spring Security",
-                            "Spring Data JPA","REST APIs","Microservices"};
-
-    // ⚛️ MERN Frontend
-    String[] frontend    = {"React","Next.js","Three.js","TypeScript",
-                            "JavaScript","HTML5","CSS3"};
-
-    // 🧠 AI / ML Stack
-    String[] mlStack     = {"LangChain","LangGraph","GPT-4o","RAG",
-                            "Scikit-learn","Pandas","NumPy","Streamlit"};
-
-    // 🗄️ Databases
-    String[] databases   = {"PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"};
-
-    // 🛠️ DevOps & Tools
-    String[] devops      = {"Docker","Git","FastAPI","Django","Flask",
-                            "Power BI","Jupyter","Linux"};
+    
+# 🧠 Core Expertise
+    ml_stack   = ["Scikit-learn","LangChain","LangGraph","GPT-4o","RAG"]
+    backend    = ["FastAPI","Spring Boot","REST API","MAVEN","Supabase"]
+    frontend   = ["React","Next.js","Three.js","HTML5","CSS3","Streamlit"]
+    databases  = ["PostgreSQL","MongoDB","MySQL","Oracle","Qdrant"]
+    devops     = ["Docker","Git","GitHub","Jupyter","Power BI","Excel"]
+    languages  = ["Python","C++","JavaScript","Java","SQL","TypeScript"]
 
     // 🏆 Biggest Wins
     String[] achievements = {
@@ -89,6 +79,15 @@ public class VaibhavTripathi {
         "🚀 SIH 2025 Finalist (10k+ participants)",
         "⚡ Unstoppable Hackathon Finalist (1L+ participants)"
     };
+
+
+    def current_focus(self):
+        return [
+            "🤖 Multi-Agent AI Systems (LangGraph)",
+            "🌾 Agro-AI & Precision Farming",
+            "🏭 Enterprise Intelligence Automation",
+            "🔬 Patent Analytics & IP Strategy",
+        ]
 
     public static void main(String[] args) {
         System.out.println("Let's build the future together 🚀");
@@ -128,7 +127,23 @@ public class VaibhavTripathi {
 
 <div align="center">
 
-### ☕ Java Backend (Primary Stack)
+### 🧠 AI / ML / Data Science(Primary Stack)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff88)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=00f5ff)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### ☕ Java Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -146,22 +161,6 @@ public class VaibhavTripathi {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧠 AI / ML / Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff88)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=00f5ff)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### 🔧 Other Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
