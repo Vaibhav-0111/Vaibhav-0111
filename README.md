@@ -205,7 +205,7 @@ print(f"Let's build the future together 🚀")
 - 📚 Patent databases & scientific literature for novelty & inventive step assessment
 - 📝 Drafted full patent docs: specs, claims, abstracts & technical descriptions
 - 📊 Analyzed technology trends, competitor patents & innovation landscapes
-- **Stack:** `MS Word` `IPR Rules` `Patent Laws` `IP Strategy`
+- **Stack:** `MS Word` `IPR Rules` `Patent Laws`
 
 ---
 
@@ -225,19 +225,6 @@ print(f"Let's build the future together 🚀")
 | **[🤖 Autonomous Enterprise Intelligence](https://github.com/Vaibhav-0111)** | 7-agent multi-agent AI system with RAG pipeline, 24k+ doc embeddings, NL-to-SQL, auto chart generation. **94% output confidence.** Deployed on Docker. | `LangGraph` `GPT-4o` `Qdrant` `FastAPI` `Docker` `PostgreSQL` |
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TRAINING                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 Training
-
-### 🐍 CSE Pathshala — Advanced Python for ML & AI
-**Jun 2025 – Jul 2025**
-- Focused on logic building, advanced ML concepts & hands-on Python practice
-- Built multiple ML models from scratch; strengthened foundational AI skills
 
 ---
 
