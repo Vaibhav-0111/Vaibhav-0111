@@ -304,7 +304,7 @@ public class VaibhavTripathi {
 
 <div align="center">
 
-[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0111&bg_color=050510&color=00f5ff&line=7c3aed&point=00f5ff&area_color=7c3aed&area=true&hide_border=true&radius=16&custom_title=Vaibhav%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0111&bg_color=050510&color=00f5ff&line=7c3aed&point=00f5ff&area_color=7c3aed&area=true&hide_border=true&radius=16&custom_title=Vaibhav%27s%20Contribution%20Graph)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
