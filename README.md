@@ -313,14 +313,12 @@ public class VaibhavTripathi {
 
 ## 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate the snake animation.
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhav-0111/Vaibhav-0111/output/snake-dark.svg"/>
 </picture>
 
 </div>
