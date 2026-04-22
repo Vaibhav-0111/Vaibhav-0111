@@ -293,10 +293,6 @@ public class VaibhavTripathi {
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-0111&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&text_color=a0cfff&border_radius=16&langs_count=8" height="185"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16" width="70%"/>
-
 </div>
 
 ---
