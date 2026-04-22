@@ -70,7 +70,7 @@ public class VaibhavTripathi {
     String[] frontend    = {"React","Next.js","Three.js","TypeScript",
                             "JavaScript","HTML5","CSS3"};
 
-    // 🧠 AI / ML Stack(primary)
+    // 🧠 AI / ML Stack (primary)
     String[] mlStack     = {"LangChain","LangGraph","GPT-4o","RAG",
                             "Scikit-learn","Pandas","NumPy","Streamlit"};
 
@@ -183,7 +183,7 @@ public class VaibhavTripathi {
 
 <div align="center">
 
-### 🧠 AI / ML / Data Science(Primary Stack)
+### 🧠 AI / ML / Data Science (Primary Stack)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff88)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graph&logoColor=00f5ff)
@@ -294,7 +294,8 @@ public class VaibhavTripathi {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16" width="70%"/>
+<!-- ✅ FIXED: Added timezone=Asia/Kolkata to prevent IST→UTC streak breaks -->
+<img src="https://streak-stats.demolab.com/?user=vaibhav-0111&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=7c3aed&fire=ff4757&currStreakLabel=00f5ff&sideLabels=a0cfff&dates=666699&border_radius=16&timezone=Asia/Kolkata" width="70%"/>
 
 </div>
 
@@ -312,8 +313,6 @@ public class VaibhavTripathi {
 
 ## 🐍 Contribution Snake
 
-> ⚙️ **Setup required:** Add the GitHub Action below to auto-generate the snake animation.
-
 <div align="center">
 
 <picture>
@@ -323,6 +322,39 @@ public class VaibhavTripathi {
 </picture>
 
 </div>
+
+> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo with the action below to auto-generate the animation daily.
+
+<details>
+<summary>📋 Click to copy the GitHub Action</summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -355,3 +387,5 @@ public class VaibhavTripathi {
 **⭐ Star my repos if helpful! · 🤝 Open to collabs, freelance & full-time opportunities**
 
 </div>
+
+
