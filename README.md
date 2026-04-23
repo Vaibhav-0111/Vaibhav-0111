@@ -286,7 +286,7 @@ public class VaibhavTripathi {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
-
+---
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -294,6 +294,8 @@ public class VaibhavTripathi {
 [![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+
 ---
 
 ## 📊 GitHub Stats
