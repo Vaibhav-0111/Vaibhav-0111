@@ -288,9 +288,9 @@ public class VaibhavTripathi {
 ## 📊 GitHub Stats
 
 <div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-0111&show_icons=true)
 
 
-[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -325,8 +325,7 @@ public class VaibhavTripathi {
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-0111&show_icons=true)
-![Streak](https://streak-stats.demolab.com/?user=vaibhav-0111)
+[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
