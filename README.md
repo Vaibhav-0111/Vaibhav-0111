@@ -289,11 +289,11 @@ public class VaibhavTripathi {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&icon_color=7c3aed&text_color=a0cfff&border_radius=16&include_all_commits=true&count_private=true" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-0111&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&text_color=a0cfff&border_radius=16&langs_count=8" height="185"/>
+
+[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ---
 
