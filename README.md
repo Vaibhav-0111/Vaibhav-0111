@@ -285,6 +285,17 @@ public class VaibhavTripathi {
 <!--                      GITHUB STATS SECTION                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -298,15 +309,6 @@ public class VaibhavTripathi {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0111&bg_color=050510&color=00f5ff&line=7c3aed&point=00f5ff&area_color=7c3aed&area=true&hide_border=true&radius=16&custom_title=Vaibhav%27s%20Contribution%20Graph)](https://github.com/vaibhav-0111/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -322,15 +324,7 @@ public class VaibhavTripathi {
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=vaibhav-0111&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💬 Dev Quote of the Day
 
