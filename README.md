@@ -286,7 +286,6 @@ public class VaibhavTripathi {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
----
 ## 🏅 GitHub Trophies
 
 <div align="center">
